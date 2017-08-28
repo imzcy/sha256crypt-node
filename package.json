@@ -1,6 +1,6 @@
 {
     "name": "sha256crypt",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "This package includes a sha256crypt implementation using JavaScript without any external dependency.",
     "url": "https://github.com/imzcy/sha256crypt-node",
     "repository": {
