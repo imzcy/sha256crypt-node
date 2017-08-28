@@ -1,0 +1,1 @@
+module.exports = require('./src/sha256crypt').cwrap('sha256_crypt', 'string', ['string', 'string']);
